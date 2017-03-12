@@ -16,3 +16,8 @@ Replace `[my-app-name]` with the desired directory name for your new application
 * Ensure `logs/` is web writeable.
 
 That's it! Now go build something cool.
+
+
+#RestApi
+
+Se utilizo Smil Framework para producir una RestApi con el fin de entender el funcionamiento de dicho framework y sus ventajas dentro de este ambito 
