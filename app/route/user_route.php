@@ -1,7 +1,8 @@
 <?php
 use App\Model\UserModel;
 
-$app->group('/usuarios/', function () {
+$app->group('/usuarios/', function () 
+{
     
     $this->get('test', function ($req, $res, $args) {
         return $res->getBody()
